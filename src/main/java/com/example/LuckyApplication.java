@@ -15,5 +15,4 @@ public class LuckyApplication {
     public static void main(String[] args) {
         SpringApplication.run(LuckyApplication.class, args);
     }
-
 }
